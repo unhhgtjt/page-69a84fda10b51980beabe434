@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1dd3158264a042e71bd5d8c3",
+  "owner": "unhhgtjt",
+  "repo": "page-69a84fda10b51980beabe434",
+  "title": "haoyun",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "69a84fda10b51980beabe434",
+      "a": "haoyun",
+      "b": "稳定全球clash加速器",
+      "entity": "haoyun",
+      "brand": "haoyun",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f8774fb05c0c3890225b626a46fdd46c9f7fda8c2293dda81a9f551dea51eaff",
+      "content": {
+        "primary_entity": "haoyun",
+        "keyword1": "haoyun",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，haoyun 提供基础版、旗舰版和团队版三档订阅，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，结合 Clash 客户端和 IPLC 专线节点，适合个人日常浏览、流媒体和团队协作等不同场景。",
+          "AI_HERO_SUBTITLE": "haoyun 加速器多档订阅灵活选",
+          "AI_HERO_INTRO": "haoyun 是面向全球网络的 Clash 加速器，提供基础版、旗舰版和团队版三档订阅。基础版适合轻度使用，旗舰版强化流媒体和游戏专线，团队版面向多人协作和大流量需求。用户可按设备数量和月流量选择合适套餐。",
+          "AI_VISUAL_TITLE": "haoyun 多端订阅加速",
+          "AI_HIGHLIGHT_1": "三档套餐按流量设备灵活选",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏专线",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备在线",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度对比套餐，找到适合日常使用的配置。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度浏览；旗舰版 300GB 兼顾流媒体；团队版 1000GB 满足多人共享。",
+          "AI_FEATURE_TITLE_2": "看设备数下决定",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版最多 20 台，按常用手机、电脑和平板数量选择。",
+          "AI_FEATURE_TITLE_3": "按周期规划订阅",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付更省费用，基础版年付 150 元、旗舰版 350 元、团队版 850 元。",
+          "AI_CLIENTS_TITLE": "客户端按设备选",
+          "AI_CLIENTS_INTRO": "在 Clash 客户端中导入订阅，Windows、macOS、Android 和 iOS 可按各自文档配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 15 元/月含 100GB 和 3 台设备；旗舰版 35 元/月含 300GB、5 台设备和 IPLC 专线；团队版 85 元/月含 1000GB 和 20 台设备。年付分别 150 元、350 元和 850 元。",
+          "AI_GUIDE_TITLE": "三步配置使用",
+          "AI_GUIDE_INTRO": "先选套餐，再确认设备适配，最后在 Clash 客户端导入订阅。",
+          "AI_STEP_TITLE_1": "选服务套餐",
+          "AI_STEP_TEXT_1": "根据月流量和设备数量，从基础版、旗舰版或团队版中选择一档订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本和客户端类型，确保支持 Clash 订阅导入。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅地址，切换节点后即可使用加速服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐轻松加速",
+          "AI_CLOSING_TEXT": "根据设备数和流量需求挑选 haoyun 套餐，按客户端文档配置订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机与电脑轻度使用。",
+          "AI_FAQ_ANSWER_2": "不需要。haoyun 客户端支持扫码或粘贴订阅链接导入，完成即可连接。",
+          "AI_FAQ_ANSWER_3": "旗舰版支持 5 台设备，团队版支持 20 台设备，可按家庭或小组规模选择。",
+          "AI_FAQ_ANSWER_4": "按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_ANSWER_5": "旗舰版与团队版包含专属节点与优先支持，适合游戏加速和高带宽场景。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "需要安装额外插件才能使用吗？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量如何选择？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "旗舰版与团队版有哪些额外权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--4gq62f52gdsslglr4z.com",
+    "host": "xn--4gq62f52gdsslglr4z.com"
+  },
+  "file_hashes": {
+    "index.html": "9e1132ab77b17c71373bb18472f5e104b92f9b151cb3eba49a2eca52612c1387",
+    "sitemap.xml": "5ce3e9dc0680270d21a0695fe30b30b9757d4588de2133057db412cacbdc10b8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8a25b744732dab9afc67ef64a6003c6dc5ff2af3f3aef67317c7fb5a6838adc8",
+    "robots.txt": "8b4214ef454a006899e21a82b140f8e64cace90a0261fd62bf7879a4f0203ff3",
+    "6da4072a7e9f56de510beca2ecec7b57.txt": "47814d0fcba220dd26ce29b45faa68a415dca5c54da07ed359c65a48b3c453a0"
+  },
+  "revision": "a7edbb94aa73d3a53e087cfa2092fb8a809e24d820211d3f11759a78fb11326c"
+}
